@@ -107,7 +107,6 @@
     <section style="background-color: #f0f0f0;">
         <h1>Bienvenidos a InnoFusion Studios</h1>
   <p>Somos una empresa líder en Desarrollo de Software, Diseño Grafico y Analistas de Datos, dedicada a impulsar la innovación y el crecimiento de tu negocio. En InnoFusion Studios, entendemos que cada empresa es única, y por lo tanto, sus necesidades también lo son.</p>
-  <!DOCTYPE html>
   <html lang="en">
   <head>
       <meta charset="UTF-8">
@@ -253,7 +252,6 @@
 </section>
      <section>
         <h2>Síguenos en Redes Sociales:</h2>
-        <!DOCTYPE html>
         <html lang="en">
         <head>
             <meta charset="UTF-8">
@@ -306,10 +304,7 @@
                         </a>
                     </div>
                     </div>
-                </div>
             </footer>
-        </body>
-        </html>
     </section>
     
     <script>
