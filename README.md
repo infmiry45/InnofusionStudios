@@ -305,8 +305,6 @@
                     </div>
                     </div>
             </footer>
-    </section>
-    
     <script>
         function openMenu() {
             document.getElementById("menu").style.width = "250px";
