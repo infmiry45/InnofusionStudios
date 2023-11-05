@@ -183,7 +183,7 @@
                       <div class="symbol">↻</div>
                   </div>
                   <div class="back">
-                      <img class="icon" src="Mision.png" alt="Icono de Misión" width="55" height="55">
+                      <img class="icon" src="Mision.png" alt="Icono de Misión" width="40" height="40">
                       <p>Ofrecer soluciones de software, análisis de datos y diseño gráfico de alta calidad para satisfacer las necesidades de nuestros clientes y ayudar a las empresas a prosperar.</p>
                   </div>
               </div>
